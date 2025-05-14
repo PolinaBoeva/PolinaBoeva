@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Полина 👋  
+📊 **Data Scientist**  
 
-<!--
-**PolinaBoeva/PolinaBoeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Образование  
+- **Бакалавриат по экономике**, ФЭН НИУ ВШЭ
+  *2019–2023*
 
-Here are some ideas to get you started:
+- **Магистратура «Искусственный интеллект»**, ФКН НИУ ВШЭ
+  *2024–2026*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaBoeva&layout=compact&theme=radical)](https://github.com/PolinaBoeva)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolinaBoeva&show_icons=true&theme=radical)](https://github.com/PolinaBoeva)  
+
+## 📫 Контакты  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Boeva_pv)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:boeva_p@bk.ru)  
