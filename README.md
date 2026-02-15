@@ -9,8 +9,10 @@
   *2024–2026*
 
 ## 📈 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaBoeva&layout=compact&theme=radical)](https://github.com/PolinaBoeva)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolinaBoeva&show_icons=true&theme=radical)](https://github.com/PolinaBoeva)  
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PolinaBoeva&show_icons=true&theme=radical)](https://github.com/PolinaBoeva)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PolinaBoeva&layout=compact&theme=radical)](https://github.com/PolinaBoeva)
+
+
 
 ## 📫 Контакты  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Boeva_pv)  
