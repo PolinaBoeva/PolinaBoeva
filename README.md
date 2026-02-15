@@ -8,12 +8,6 @@
 - **Магистратура «Искусственный интеллект»**, ФКН НИУ ВШЭ
   *2024–2026*
 
-## 📈 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PolinaBoeva&show_icons=true&theme=radical)](https://github.com/PolinaBoeva)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PolinaBoeva&layout=compact&theme=radical)](https://github.com/PolinaBoeva)
-
-
-
 ## 📫 Контакты  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Boeva_pv)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:boeva_p@bk.ru)  
